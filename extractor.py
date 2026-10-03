@@ -40,7 +40,7 @@ def find_files(path):
 def extract(text):
     emails = unique(EMAIL_RE.findall(text))
     phones = unique(PHONE_RE.findall(text))
-    websites = unique(WEBSITE_RE.findall(text))
+    websites = unique(w.rstrip(".") for w in WEBSITE_RE.findall(text))
     return emails, phones, websites
 
 
