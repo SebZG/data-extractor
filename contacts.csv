@@ -1,0 +1,12 @@
+﻿Type,Value,Source file
+Email,ITsupport@TechFusion.com,example-email.txt
+Email,John.Doe@TechFusion.com,example-email.txt
+Email,Finance@TechFusion.com,example-email.txt
+Email,tcusack@aol.com,example-email.txt
+Phone,(123) 456-7890,example-email.txt
+Phone,456 789 0123,example-email.txt
+Phone,800-123-4567,example-email.txt
+Phone,(606) 586 1234,example-email.txt
+Website,TechFusion.com,example-email.txt
+Website,TechSupport.net,example-email.txt
+Website,PMguidelines.org,example-email.txt
